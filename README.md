@@ -69,7 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# lab06:
+# lab06
+
 # # city-explorer
 
 **Lana Shamayleh**
@@ -90,6 +91,7 @@ React
 JS
 
 ## Change Log
+
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
@@ -99,10 +101,14 @@ JS
 
 Name of feature: react and axios
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 2 hours
 
-Start time: 
+Start time: 2:00 pm
 
-Finish time:
+Finish time: 10:00 pm
 
-Actual time needed to complete:
+Actual time needed to complete: 8 hours
+
+## Project Planning
+
+![Alt Text](src/lab06.png)
