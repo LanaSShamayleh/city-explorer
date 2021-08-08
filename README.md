@@ -99,7 +99,7 @@ JS
 
 Name of feature: react and axios
 
-Estimate of time needed to complete:2h
+Estimate of time needed to complete:
 
 Start time: 
 
