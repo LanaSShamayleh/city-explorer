@@ -24,7 +24,7 @@ class FormInfo extends React.Component {
     }
     getData = async (e) => {
         e.preventDefault();
-        let reqUrl = `https://eu1.locationiq.com/v1/search.php?key=pk.b63c5ecf5d90031a016f3169a46a0e31&q=${this.state.searchInput}&format=json`;
+        let reqUrl = `https://eu1.locationiq.com/v1/search.php?key=pk.8051979a1ba78b6bb685f7730bcf2f5a&q=${this.state.searchInput}&format=json`;
         try{
             // console.log(serverRoute);
         let result = await axios.get(reqUrl);
