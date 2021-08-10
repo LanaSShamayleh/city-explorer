@@ -14,7 +14,6 @@ class WeatherCard extends React.Component {
                          Weather Data
                         </Card.Title>
                         <Card.Text>
-                            {/* {console.log(this.state.weatherData)}  */}
                             Date: {this.props.weatherData[0].date}<br/>
                             Description: {this.props.weatherData[0].description}<br/>
                             Date: {this.props.weatherData[1].date}<br/>
@@ -28,7 +27,7 @@ class WeatherCard extends React.Component {
                 {this.props.display ===false && <Card style={{ width: '18rem' }}>
                     <Card.Body>
                         <Card.Title>
-                         Weather Data Error with status: {this.props.weatherData.status}
+                        Weather Data Error with status: {this.props.weatherData.status}
                         </Card.Title>
                         <Card.Text>
                          {this.props.weatherData.data}
