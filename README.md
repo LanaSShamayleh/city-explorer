@@ -101,14 +101,14 @@ JS
 
 Name of feature: react and axios
 
-Estimate of time needed to complete: 2 hours
+Estimate of time needed to complete: 5 hours
 
-Start time: 2:00 pm
+Start time: 9:00 am
 
-Finish time: 10:00 pm
+Finish time: 12:00 am
 
-Actual time needed to complete: 8 hours
+Actual time needed to complete: 15 hours
 
 ## Project Planning
 
-![Alt Text](src/lab06.png)
+
