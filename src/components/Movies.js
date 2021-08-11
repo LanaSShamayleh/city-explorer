@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 
 
 
-class MovieCard extends React.Component {
+class Cards extends React.Component {
 
     render() {
 
@@ -19,14 +19,13 @@ class MovieCard extends React.Component {
                              <b>Total votes:</b> {element.totalVotes}<br />
                              <b>Avg votes:</b> {element.avgVotes}<br />
                              <b>Popularity:</b> {element.popularity}<br />
-                             <b>Releas Date:</b> {element.releaseDate}<br />
+                             <b>Release Date:</b> {element.releaseDate}<br />
                             </Card.Text>
 
                         </Card.Body>
                     </Card>)
                 })
                 }
-                {console.log(this.props.display)}
                 {this.props.display ===false && <Card style={{ width: '18rem' }}>
                     <Card.Body>
                         <Card.Title>
@@ -40,4 +39,4 @@ class MovieCard extends React.Component {
     }
 }
 
-export default MovieCard;
+export default Cards;
